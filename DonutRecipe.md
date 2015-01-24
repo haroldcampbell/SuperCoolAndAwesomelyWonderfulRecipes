@@ -46,10 +46,7 @@ For this recipe, start with the dough as it takes just a few minutes to create t
 ##### Dough Preparations
 
 1. Combine all the **dough ingredients** ingredients in a large bowl.
-2. Cover the dough with a damp cloth and let the combined dough sit for 1 hour (at room temperature).
-
-**Tip:** you can put the dough outside in the sun, just ensure that the cloth is very damp :)
-
+2. Cover the dough with a damp cloth and let the combined dough sit for 1 hour (at room temperature). **Tip:** you can put the dough outside in the sun, just ensure that the cloth is very damp :)
 3. (After the hour) knead the dough for about 5 minutes.
 4. Let the dough sit for an additional 30 minutes.
 5. Now the dough is ready.
@@ -62,13 +59,10 @@ For this recipe, start with the dough as it takes just a few minutes to create t
 
 ##### Glaze Preparations
 
-**Tip:** I have found that it is best to make the glaze after **Step 6** of the **Dough Preparations** above
+**Tip:** I have found that it is best to make the glaze after **Step 6** of the **Dough Preparations** above.
 
 1. Add all the **glaze ingredients** ingredients to a wide bowl.
-2. Microwave until warm or the butter has melted
-
-**Tip:** do not over heat
-
+2. Microwave until warm or the butter has melted **Tip:** do not over heat!
 3. Stir until the sugar dissolves.
 
 ### Cooking instructions
@@ -77,11 +71,8 @@ For this recipe, start with the dough as it takes just a few minutes to create t
 2. Fry only 3 at a time over a medium to high flame.
 3. The cooking time for the donuts is about 30 seconds (15 on each side).
 4. Flip the donuts once they have gone golden brown (or after 15 seconds).
-5. Take the donut out of the pan and let the excess oil drain.
-
-**Tip:** I placed mine one a large plate that had a two sheets of paper towels to absorb the excess oil.
-
+5. Take the donut out of the pan and let the excess oil drain. **Tip:** I placed mine one a large plate that had a two sheets of paper towels to absorb the excess oil.
 6. After about 3 - 5 minutes, dip in glaze.
-7. **Enjoy with a passion**!
+7. **Enjoy**!
 
 
