@@ -57,7 +57,7 @@ The hardest part about this recipe is waiting for the pancakes to be done :)
 5. Fry the other side for about **20 - 24 seconds**.
 6. Brush on more oil after every third or fourth pancake.
 
-**Tip**: Here is an .MOV file showing how I [flip](assets/sunshine-pancake-recipe/flipping.MOV) the pancakes.
+**Tip**: Here is a .MOV file showing how I [flip](assets/sunshine-pancake-recipe/flipping.MOV) the pancakes.
 
 The timing may vary, so give it a few tries until you get it right.
 
