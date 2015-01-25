@@ -21,23 +21,23 @@ The thing that makes this recipe so easy is that you don't need any special ingr
 
 ##### Dough Ingredients
 
+- 2 cups flour
+- 3/4 cup **warm** milk
 - 1/4 cup **warm** (not boiling) water
 - 1 packet dry yeast
-- 3/4 cup **warm** milk
-- 35 grams soft butter or margarine (it doesn't matter if it is salted)
 - 2 tbsp sugar (I used brown sugar)
-- 1 egg
-- 2 cups flour
 - 1/8 tsp salt (optional)
 - 1/8 tsp nutmeg (optional)
+- 1 egg
+- 35 grams soft butter or margarine (it doesn't matter if it is salted)
 
 ##### Glaze Ingredients
 
 - 1 cup powdered sugar
 - 3 tbsp water
-- between 28 to 35 grams of soft butter or margarine
 - 1/4 tsp vanilla
 - 1/8 tsp almond essence
+- between 28 to 35 grams of soft butter or margarine
 
 ### Preparations
 
@@ -45,7 +45,7 @@ For this recipe, start with the dough as it takes just a few minutes to create t
 
 ##### Dough Preparations
 
-1. Combine all the **dough ingredients** ingredients in a large bowl.
+1. Combine all the **dough ingredients** in a large bowl.
 2. Cover the dough with a damp cloth and let the combined dough sit for 1 hour (at room temperature). **Tip:** you can put the dough outside in the sun, just ensure that the cloth is very damp :)
 3. (After the hour) knead the dough for about 5 minutes.
 4. Let the dough sit for an additional 30 minutes.
@@ -73,6 +73,7 @@ For this recipe, start with the dough as it takes just a few minutes to create t
 4. Flip the donuts once they have gone golden brown (or after 15 seconds).
 5. Take the donut out of the pan and let the excess oil drain. **Tip:** I placed mine one a large plate that had a two sheets of paper towels to absorb the excess oil.
 6. After about 3 - 5 minutes, dip in glaze.
-7. **Enjoy**!
 
+Enjoy!!
 
+Share your results with me on twitter: [@haroldcampbell](http://twitter.com/haroldcampbell)

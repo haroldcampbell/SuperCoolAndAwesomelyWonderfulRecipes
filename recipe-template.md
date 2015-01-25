@@ -8,8 +8,7 @@ Cooking time:
 
 Servings: Makes **approximately __** ___
 
-Enjoy
-
+Enjoy!!
 
 ## Recipe
 
@@ -18,3 +17,7 @@ Enjoy
 ### Preparations
 
 ### Cooking instructions
+
+Enjoy!!
+                                                                                           
+Share your results with me on twitter: [@haroldcampbell](http://twitter.com/haroldcampbell)
