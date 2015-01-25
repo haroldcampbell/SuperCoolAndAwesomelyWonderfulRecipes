@@ -7,7 +7,7 @@ This recipe makes a wonderful batch of donuts (approximately 14). It's quick and
 
 Preparation time: About **2 hours**
 
-Serving size: Makes **approximately 14** donuts
+Servings: Makes **approximately 14** donuts
 
 Enjoy!!
 
