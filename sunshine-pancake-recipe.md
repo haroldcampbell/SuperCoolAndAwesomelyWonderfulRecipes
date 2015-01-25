@@ -2,11 +2,13 @@
 
 Making the perfect pancakes is easy. This recipe shows how to make a batch of 18 pancakes.
 
-Here are two images of a stack of three.
+##### Stack of three pancakes from the side
 
-![Side](assets/sunshine-pancake-recipe/result-1.jpg)
+![Side](assets/sunshine-pancake-recipe/side.jpg "Side")
 
-![Top](assets/sunshine-pancake-recipe/result-2.jpg)
+##### Stack of three pancakes from the top
+
+![Top](assets/sunshine-pancake-recipe/top.jpg "Top")
 
 ##### Quick Stats
 
@@ -51,7 +53,7 @@ The hardest part about this recipe is waiting for the pancakes to be done :)
 1. Use a medium flame.
 2. Brush on a really **small** amount of oil onto a non-stick frying pan. If you don't have a cooking brush, coat the bottom of the frying pan with about **1 tsp** of cooking oil.
 3. Once the pan is hot, pour about **1/2 cup** of batter into the pan.
-4. Flip the batter once you start seeing **large bubbles** forming. This is what [it should look like](assets/sunshine-pancake-recipe/time-to-flip.jpg) when it's ready to be flipped.
+4. Flip the batter once you start seeing **large bubbles** forming. This is what [it should look like](assets/sunshine-pancake-recipe/ready-to-flip.jpg) when it's ready to be flipped.
 5. Fry the other side for about **20 - 24 seconds**.
 6. Brush on more oil after every third or fourth pancake.
 
