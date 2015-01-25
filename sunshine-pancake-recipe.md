@@ -4,6 +4,8 @@ Making the perfect pancakes is easy. This recipe shows how to make a batch of 18
 
 ![Result 1](assets/sunshine-pancake-recipe/result-1.JPG)
 
+![Result 1](assets/result-1.JPG)
+
 ![Result 2](assets/sunshine-pancake-recipe/result-2.JPG)
 
 ##### Quick Stats
