@@ -43,13 +43,13 @@ The hardest part about this recipe is waiting for the pancakes to be done :)
 **Tip:** Each pancake takes about a minute to be cooked.
 
 1. Use a medium flame.
-2. Brush on a really **small** amount of oil into a non-stick frying pan. If you don't have a cooking brush, coat the bottom of the frying pan with about **1 tsp** of cooking oil.
+2. Brush on a really **small** amount of oil onto a non-stick frying pan. If you don't have a cooking brush, coat the bottom of the frying pan with about **1 tsp** of cooking oil.
 3. Once the pan is hot, pour about **1/2 cup** of batter into the pan.
 4. Flip the batter once you start seeing **large bubbles** forming.
 5. Fry the other side for about **20 - 24 seconds**.
 6. Brush on more oil after every third or fourth pancake.
 
-The timing may vary so, give it a few tries until you get it right.
+The timing may vary, so give it a few tries until you get it right.
 
 Enjoy!!
 
