@@ -30,7 +30,7 @@ This is a super yummy and moist chocolate cake. The added touch of the coffee re
 
 ### Preparations
 1. In a large mixing bowl, blend sugar, flour, cocoa, baking powder and salt.
-2. Add eggs, coffeem buttermilk, oild and vanilla extract.
+2. Add eggs, coffee, buttermilk, oil and vanilla extract.
 3. Beat on medium speed with a mixer for about 2 minutes - butter should be thin.
 4. Pour into tin(s) and bake.
 
