@@ -17,7 +17,7 @@ This is a super yummy and moist chocolate cake. The added touch of the coffee re
 ### Ingredients
 
 - 2 cups sugar
-- 2 tsp backing soda
+- 2 tsp baking soda
 - 1 3/4 cups all purpose flour
 - 1/4 cups of cocoa powder
 - 1 tsp baking powder
